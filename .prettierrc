@@ -1,0 +1,12 @@
+printWidth: 120
+tabWidth: 2
+useTabs: false
+semi: true
+singleQuote: false
+bracketSpacing: true
+jsxBracketSameLine: false
+arrowParens: avoid
+trailingComma: es5
+
+rangeStart: 0
+rangeEnd: Infinity
