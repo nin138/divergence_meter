@@ -5,7 +5,7 @@ interface State {
   text: string;
 }
 export function t(a: string): string {
-  return a == "" ? "hello, world!" : a;
+  return a === "" ? "hello, world!" : a;
 }
 
 class App extends React.Component<{}, State> {
