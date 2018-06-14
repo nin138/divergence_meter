@@ -1,4 +1,14 @@
 @import "reset.css";
+@import "DivergenceMeter/Nixie.css";
+@import "DivergenceMeter/DivirgenceMeter.css";
 .test {
   color: color(red a(70%));
+}
+body {
+  background: #333;
+}
+.wrapper {
+  width: 100vw;
+  height: 100vh;
+  background: #333;
 }
