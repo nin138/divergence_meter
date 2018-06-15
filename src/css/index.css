@@ -9,6 +9,5 @@ body {
 }
 .wrapper {
   width: 100vw;
-  height: 100vh;
-  background: #333;
+  height: 300px;
 }
